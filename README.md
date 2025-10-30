@@ -20,5 +20,6 @@
 
 ### Способ 2
 ```bush
+#переходим в папку с плагином
 cd ~/FUNNY-CONSOLE-PIC
 code --install-extension funny-console-pic-0.0.1.vsix
