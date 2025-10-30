@@ -13,6 +13,12 @@
 **Команды:**
 - `Funny Console Pic: Showpic` — показывает случайный смешной рисунок
 
-### Установка
+## Установка
 
-Для установки просто перетащи файл в окошко с открытым VS Code
+### Способ 1
+Просто перетащи файл `funny-console-pic-0.0.1.vsix` в окошко с открытым VS Code.
+
+### Способ 2
+```bush
+cd ~/FUNNY-CONSOLE-PIC
+code --install-extension funny-console-pic-0.0.1.vsix
